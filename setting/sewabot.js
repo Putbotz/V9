@@ -1,15 +1,15 @@
 exports.sewabot = (prefix) => {
 return `╭──「 *SEWABOT* 」
 │
-├❏ 1 MINGGU : 5.000 ( 5K )
-├❏ 1 BULAN : 10.000 ( 10K )
-├❏ PERMANEN : 15.000 ( 15K )
+├❏ 1 MINGGU : 5
+├❏ 1 BULAN : 10
+├❏ PERMANEN : 15
 │
 ├──「 *PREMIUM* 」
 │
-├❏ 1 MINGGU : 10.000 ( 10K )
-├❏ 1 BULAN : 15.000 ( 15K )
-├❏ PERMANEN : 20.000 ( 20K )
+├❏ 1 MINGGU : 10
+├❏ 1 BULAN : 15
+├❏ PERMANEN : 20
 │
 ╰──「 *${botname}* 」`
 }
